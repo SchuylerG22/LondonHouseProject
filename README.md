@@ -1,8 +1,8 @@
-# jekyll-project-template
+# LondonHouseProject
 
 Write a tagline here!
 
-By Your Name, Boston College
+By Schuyler Gardner, Boston College
 
 ## About
 
