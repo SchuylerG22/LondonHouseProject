@@ -10,7 +10,7 @@ To further this consumption-centered identity, English dietary writers created c
 
 ---
 
-Consult the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for Help on using Markdown!
+**bold text** Source 
 
 ---
 
