@@ -9,9 +9,6 @@ During the sixteenth and seventeenth centuries, England was a nation suffering f
 To further this consumption-centered identity, English dietary writers created common enemies by demoralizing the eating practices of other nations, particularly Ireland. However, there has been much suspicion amongst historians as to how different English and Irish consumption practices truly were. How could two nations with such similar agricultural landscapes and environmental compositions form such contrasting eating rituals? Did these portrayed differences in consumption have any truth in them, or were they entirely invented out of the emerging nationalistic and anti-Irish sentiments? 
 
 ---
-
-**bold text**Source 
-
 ---
 
 Below are a couple of ways you might include images in your site. The simplest is to use Markdown's image method. Use a !, then put the alt text you want inside of square brackets, and the link inside of parentheses.
