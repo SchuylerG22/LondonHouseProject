@@ -11,7 +11,7 @@ To further this consumption-centered identity, English dietary writers created c
 ---
 
 Below are a couple of ways you might include images in your site. The simplest is to use Markdown's image method. Use a !, then put the alt text you want inside of square brackets, and the link inside of parentheses.
-![This is the alt text that will appear on mouseover](assets/img/bcds-logo.webp)
+![This is the alt text that will appear on mouseover](assets/img/image1.png)
 
 ---
 
