@@ -10,7 +10,7 @@ To further this consumption-centered identity, English dietary writers created c
 
 ---
 
-**bold text** Source 
+**bold text**Source 
 
 ---
 
