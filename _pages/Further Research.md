@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Further Research
-permalink: Further Research
+permalink: further-research
 show-title: true
 ---
 
