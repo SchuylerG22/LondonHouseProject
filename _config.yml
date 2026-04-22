@@ -22,26 +22,17 @@ nav-menu:
         link: method
       - title: Bibliography
         link: bibliography
-   - title: Findings
-     link: findings
-     submenue:
-       - title: Meat
-         link: meat
-       - title: Fish
-         link: fish
-       - title: Dairy and Poultry
-         link: dairy-and-poultry
-       - title: Results
+  - title: Findings
+    link: findings
+    submenu:
+      - title: Meat
+        link: meat
+      - title: Fish
+        link: fish
+      - title: Dairy and Poultry
+        link: dairy-and-poultry
+      - title: Results
         link: results
-   - title: Further Research
-     link: further-research
-     submenue:
-       - title: Available Materials
-         link: available-materials
-       - title: Further Readings 
-         link: further-readings
-       - title: Next Steps 
-         link: next-steps
         
 # sets whether a search bar appears on the site header
 search-bar: false
