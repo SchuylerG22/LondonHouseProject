@@ -21,11 +21,12 @@ nav-menu:
     submenu:
       - title: Method
         link: method
+   submenu:
+      - title: Bibliography
+        link: bibliography
       submenu:
       - title: Bibliography
         link: bibliography
-  - title: Findings
-    link: findings
   - title: Further Research
     link: further-research
 
