@@ -14,17 +14,27 @@ nav-menu:
   - title: Home
     link: index
   - title: About
+      link: about
     submenu:
-      - title: Previous Scholarship
-        link: scholarship
-      - title: Source & Methods
-        link: methods
+      - title: Source
+        link: source
+      - title: Method 
+        link: method
+      - title: Bibliography
+        link: bibliography
   - title: Findings
     link: findings
   - title: Reflections
     link: reflections
   - title: Further Research
     link: further-research
+    submenue: 
+      - title: Available Materials
+        link: available-materials 
+      - title: Further Reading 
+        link: further-reading
+      - title: Next Steps
+        link: next-steps
 
 # sets whether a search bar appears on the site header
 search-bar: false
