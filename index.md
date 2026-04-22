@@ -11,4 +11,4 @@ To further this consumption-centered identity, English dietary writers created c
 **The London House Project** is an attempt to utilize digital humanities to begin answering these questions. By examining the kitchen record A weekly book for London House, 1612 March 25 - 1614 March 25, this project has tracked real, every-day consumption patterns of seventeenth-century England to understand what people actually consumed and how it differents from what they portrayed themselves as consuming. 
 
 ![A photo of the first page of _London House__](assets/img/image1.png)
-_A photo of the first page of "London House" taken from the Folger Skakespeare Library __
+_A photo of the first page of "London House" taken from the Folger Skakespeare Library_
