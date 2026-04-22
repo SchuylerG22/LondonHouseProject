@@ -33,6 +33,15 @@ nav-menu:
         link: dairy-and-poultry
       - title: Results
         link: results
+  - title: Further Research
+    link: further-research
+    submenu:
+      - title: Available Materials
+        link: available-materials
+      - title: Further Readings
+        link: further-readings
+      - title: Next Steps
+        link: next-steps
         
 # sets whether a search bar appears on the site header
 search-bar: false
