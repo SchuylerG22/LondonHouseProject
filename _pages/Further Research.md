@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Reflections
-permalink: reflections
+title: Further Research
+permalink: Further Research
 show-title: true
 ---
 
