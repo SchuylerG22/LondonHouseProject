@@ -18,10 +18,8 @@ nav-menu:
     submenu:
       - title: Source
         link: source
-    submenu:
       - title: Method
         link: method
-      submenu:
       - title: Bibliography
         link: bibliography
   - title: Further Research
