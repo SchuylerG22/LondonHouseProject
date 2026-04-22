@@ -13,7 +13,7 @@ theme-color: indigo # indigo|blue|pink|green|stone|
 nav-menu:
   - title: Home
     link: index
-  - title: Background
+  - title: About
     submenu:
       - title: Previous Scholarship
         link: scholarship
