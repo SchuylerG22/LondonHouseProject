@@ -18,6 +18,9 @@ nav-menu:
     submenu:
       - title: Source
         link: source
+    submenu:
+      - title: Method
+        link: method
   - title: Findings
     link: findings
   - title: Reflections
