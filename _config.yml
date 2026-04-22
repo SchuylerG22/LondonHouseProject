@@ -28,13 +28,6 @@ nav-menu:
     link: reflections
   - title: Further Research
     link: further-research
-    submenue: 
-      - title: Available Materials
-        link: available-materials 
-      - title: Further Reading 
-        link: further-reading
-      - title: Next Steps
-        link: next-steps
 
 # sets whether a search bar appears on the site header
 search-bar: false
