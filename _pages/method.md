@@ -17,4 +17,4 @@ The next step was to properly transcribe the numbers and currency within the tex
 _4 pence written without dotted i's _
 
 ![A photo of the number 4 with notation__](assets/img/iiii.png)
-_4 pence written with dottes i's_
+_4 pence written with dotted i's_
