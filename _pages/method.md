@@ -13,4 +13,8 @@ Luckily, this proved to be a relatively painless part of the process, as we hypo
 
 The next step was to properly transcribe the numbers and currency within the text. The numeric system was fairly straightforward, consisting mainly of roman numerals, except for weekly and monthly summaries which are written with arabic numbers. However it took a long time to get used to the handwriting, which often muddies numbers or places them so close together that they become difficult to decipher. One of the most difficult elements, for instance, was learning to distinguish between V (5) and X (10) which were too of the most common numbers within the book and, unfortunately, looked very similar. 
 
-![A photo of the first page of _London House__](assets/img/1111.png) ![A photo of the first page of _London House__](assets/img/iiii.png)
+![A photo of the numver 4 wiithout notation_](assets/img/1111.png) 
+_4 pence written without dotted i's _
+
+![A photo of the number 4 with notation__](assets/img/iiii.png)
+_4 pence written with dottes i's_
