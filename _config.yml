@@ -23,7 +23,6 @@ nav-menu:
       - title: Bibliography
         link: bibliography
   - title: Findings
-    link: findings
     submenu:
       - title: Meat
         link: meat
