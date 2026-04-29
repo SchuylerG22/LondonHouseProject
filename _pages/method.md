@@ -7,7 +7,7 @@ show-title: true
 
 The first step of this progress was transcribing London House and determining how to best format the transcriptions in order to create readable data. Transcribing London House was by far the most time consuming step in the process, taking well over half of the allotted time. For this transcription, I was able to use the digital scan of the whole text provided by the Folger Shakespeare Library, which allowed for high-quality magnification of images which proved to be an immense help during this process. The first step when transcribing was to figure out what the four categories, Venit, Expense, Valet, and Remanent, stood for. 
 
-![A photo of the first page of _London House__](assets/img/chart.png)
+![A photo of the first page of _London House__](assets/img/Chart.png)
 
 Luckily, this proved to be a relatively painless part of the process, as we hypothesized from the beginning that “remanet” has some correlation to the word “remainder” and “expence” either referred to the amount spent or the items used. Thanks to Professor LoPiano’s knowledge of Latin, he was able to translate “Venit” to “he comes/arrives” which we took to mean the food arriving or being delivered to the house. This left “Valet” as the logical category for the value of items used. 
 
