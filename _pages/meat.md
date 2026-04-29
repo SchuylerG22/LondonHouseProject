@@ -9,5 +9,6 @@ Due to its mass popularity, beef was one of the foods most closely associated wi
 
 Given this historical context, I hypothesized early on that beef would be one of the central foods consumed at London House. This hypothesis proved to be correct, as, after visualizing the data, it becomes evident that by far the most money was spent on beef consumption: 
 
+![A photo which displays the dominance of beef consumption__](assets/img/Overall Consumption.png)
 
 Based on the data from London House, this portrayal of the English as “proper” and frequent beef eaters is grounded in reality. 
