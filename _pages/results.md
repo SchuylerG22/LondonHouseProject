@@ -9,12 +9,25 @@ The overall data collected from London House can be seen below:
 
 ![A photo which displays the overall results__](assets/img/Workbook.png)
 
-<iframe 
-  src="https://public.tableau.com/views/FoodConsumptionatLondonHouse1612-1613/Dashboard1?:embed=y&:display_count=yes"
-  width="100%" 
-  height="800"
-  frameborder="0">
-</iframe>
+<div class='tableauPlaceholder' id='vizFood'>
+  <noscript>
+    <a href='#'>
+      <img alt='Food Consumption Dashboard' 
+           src='https://public.tableau.com/static/images/Fo/FoodConsumptionatLondonHouse1612-1613/Dashboard1/1.png'>
+    </a>
+  </noscript>
+
+  <object class='tableauViz' width='100%' height='800'>
+    <param name='host_url' value='https://public.tableau.com/' />
+    <param name='embed_code_version' value='3' />
+    <param name='site_root' value='' />
+    <param name='path' value='views/FoodConsumptionatLondonHouse1612-1613/Dashboard1' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+  </object>
+</div>
+
+<script src='https://public.tableau.com/javascripts/api/viz_v1.js'></script>
 
 **Analysis of data:** 
 What first stands out is the stark decrease in beef and increase in fish purchased in the month of March. My current theory is that this is due to the common practice of Lenten fasting, a Catholic consumption ritual in which one is required to abstain from meat and instead use fish as a central source of sustenance. However, this is incredibly surprising given the fact that this work is created in a time in which England is definitively protestant. For instance, if we were to compare this to the data visualization done by The Food Cult Project, we should see a very similar consumption pattern in Catholic-dominated Ireland:  
