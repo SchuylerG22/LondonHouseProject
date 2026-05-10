@@ -1,58 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Project</title>
+  <meta charset="utf-8">
+</head>
+
 <body style="font-family: Arial; max-width: 900px; margin: auto;">
 
 <h1>Food Consumption Analysis</h1>
 
 <p>
-This project explores patterns in meat and fish consumption...
+This project explores food consumption patterns in London (1612–1613).
+Below is an interactive Tableau dashboard.
 </p>
 
-<!-- Tableau viz stays here -->
-
-</body>
-
-
-
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My Tableau Dashboard</title>
-  <meta charset="utf-8">
-</head>
-<body>
-
-<h1>Food Consumption Dashboard</h1>
-
-<!-- TABLEAU EMBED START -->
-<div class='tableauPlaceholder' id='viz1778416276032' style='position: relative'>
-  <noscript>
-    <a href='#'>
-      <img alt='Dashboard 1'
-      src='https://public.tableau.com/static/images/Fo/FoodConsumptionatLondonHouse1612-1613/Dashboard1/1_rss.png'
-      style='border: none' />
-    </a>
-  </noscript>
-
-  <object class='tableauViz' style='display:none;'>
-    <param name='host_url' value='https://public.tableau.com/' />
-    <param name='embed_code_version' value='3' />
-    <param name='name' value='FoodConsumptionatLondonHouse1612-1613/Dashboard1' />
-    <param name='tabs' value='no' />
-    <param name='toolbar' value='yes' />
-  </object>
-</div>
+<div class='tableauPlaceholder' id='viz1'></div>
 
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1778416276032');
-  var vizElement = divElement.getElementsByTagName('object')[0];
+  var divElement = document.getElementById('viz1');
+  var vizElement = document.createElement('iframe');
 
-  vizElement.style.width = '100%';
-  vizElement.style.height = '800px';
+  vizElement.src = "https://public.tableau.com/views/FoodConsumptionatLondonHouse1612-1613/Dashboard1?:embed=y";
+  vizElement.width = "100%";
+  vizElement.height = "800";
 
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+  divElement.appendChild(vizElement);
 </script>
-<!-- TABLEAU EMBED END -->
 
 </body>
 </html>
