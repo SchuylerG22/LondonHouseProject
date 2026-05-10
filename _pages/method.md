@@ -17,10 +17,10 @@ However, before a whole transcription could be created, it was necessary to deco
 Following this, it was necessary to decode the numbers used within the text. The numeric system was fairly straightforward, consisting mainly of Roman numerals, except for weekly and monthly summaries, which are written with Arabic numbers. However, the inconsistencies with which the numbers were written made transcribing difficult. For instance, “i” was rarely consistently dotted, making it hard to know when the author was writing multiple "i’s" in a row, or attempting to write a different number. Some numbers were also written in the author’s own style, which was not in line with standard Roman numerals, such as 4, which was always written as “iiii” instead of “IV.” 
 
 ![A photo of the number 4 without notation_](assets/img/1111.png) 
-_4 pence written without dotted i's_
+<small>4 pence written without dotted i's</small>
 
 ![A photo of the number 4 with notation__](assets/img/iiii.png)
-_4 pence written with dotted i's_
+<small>4 pence written with dotted i's</small>
 
 The final step in decoding was understanding the types of currency being used. After much deducing, we decided that, based on the current symbol for pound, lb, the “L” used might be an earlier iteration. After this, we were finally able to decipher the second currency symbol as a “d,” which, after some research, we discovered was the symbol for “pence.” There were also a few less common forms of measurement that took getting used to, such as “stone,” used exclusively for beef; “joints,” for lamb and mutton; and, occasionally, “firkin,” for butter.
 
@@ -31,7 +31,7 @@ Based on how long it was taking to decode and transcribe the text, it was unreal
 After these categories were decided, the data collection categories themselves needed to be chosen. The goal was to format the excel sheet, where the data would be collected, in a consistent manner easily readable by the data visualization tools later employed. Considering these factors, the excel sheet was formatted with the categories of : week, food, amount purchased, amount used, monetary value, and unit of measurement.    
 
 ![A photo of the data sheet_](assets/img/Excel sheet.png)
-A photo of the original data sheet 
+<small>A photo of the original data sheet</small> 
 
 **3.Data Visulaization**
 
