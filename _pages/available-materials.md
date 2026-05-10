@@ -7,3 +7,6 @@ show-title: true
 
 In order to make this research as accessible for as possible to other food historians interested in similar work, the data collected from _London House_ is provided below. I encourage anyone interested to use and experiment with the data for their own projects. 
 
+<a href="London House Data.xlsx" download>
+  Download Excel File
+</a>
