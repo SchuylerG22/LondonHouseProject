@@ -9,6 +9,26 @@ The overall data collected from London House can be seen below:
 
 ![A photo which displays the overall results__](assets/img/Workbook.png)
 
+<div class='tableauPlaceholder' id='vizFood'>
+  <noscript>
+    <a href='#'>
+      <img alt='Food Consumption Dashboard' 
+           src='https://public.tableau.com/static/images/Fo/FoodConsumptionatLondonHouse1612-1613/Dashboard1/1.png'>
+    </a>
+  </noscript>
+
+  <object class='tableauViz' width='100%' height='800'>
+    <param name='host_url' value='https://public.tableau.com/' />
+    <param name='embed_code_version' value='3' />
+    <param name='site_root' value='' />
+    <param name='path' value='views/FoodConsumptionatLondonHouse1612-1613/Dashboard1' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+  </object>
+</div>
+
+<script src='https://public.tableau.com/javascripts/api/viz_v1.js'></script>
+
 <p>
   <a href="https://public.tableau.com/views/FoodConsumptionatLondonHouse1612-1613/Dashboard1" target="_blank">
     View My Tableau Dashboard
