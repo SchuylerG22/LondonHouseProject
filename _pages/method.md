@@ -35,3 +35,4 @@ After these categories were decided, the data collection categories themselves n
 
 **3.Data Visulaization**
 
+The data visualization tool applied to London House was Tableau. After surveying different options, Tableau proved the most favorable as it has a straightforward application, allows for interactive elements, and provides immense opportunities for customization. Although the data was curated to be readable for Tableau, it did require some additional cleaning before it could be properly applied. This cleaning mainly revolved around standardizing measurements, creating broader categories for the food, and doing some additional math to adjust the monetary values based on today’s currency. Once this was done, the data was applied to Tableau where a variety of different data visualization tactics were applied to it, as shown in the “Results” section of this webpage. 
