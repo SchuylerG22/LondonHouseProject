@@ -13,8 +13,12 @@ What is particularly striking about the findings of London House is the immense 
 
 ![A data visualization of the fish consumed at London House_](assets/img/Fish Consumption.png)
 
+<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+
+
 <tableau-viz id="tableauViz"       
-  src='[https://public.tableau.com/views/FoodConsumptionatLondonHouse1612-1613/Sheet6?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]'>
+  src='[https://public.tableau.com/views/FoodConsumptionatLondonHouse1612-1613/Sheet6?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]'      
+  toolbar="bottom" hide-tabs>
 </tableau-viz>
 
 
