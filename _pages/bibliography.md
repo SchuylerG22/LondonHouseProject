@@ -7,7 +7,7 @@ show-title: true
 
 **Sources Consulted and Suggested for Further Research**
 
-"A weekly book for London House," 1612 - 1614, Z.d.20, The Folger SHakespeare Library, Washington D.C. https://fromthepage.com/folger/early-modern-account-books/zd20 
+"A weekly book for London House," 1612 - 1614, Z.d.20, The Folger Shakespeare Library, Washington D.C. https://fromthepage.com/folger/early-modern-account-books/zd20 
 
  
 Albala, Ken. _Eating Right in the Renaissance_. University of California Press, 2002. 
