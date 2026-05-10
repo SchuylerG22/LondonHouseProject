@@ -31,10 +31,5 @@ What is particularly striking about the findings of London House is the immense 
 
 <script src='https://public.tableau.com/javascripts/api/viz_v1.js'></script>
 
-<p>
-  <a href="https://public.tableau.com/views/ConsumptionofIndicidualFish/Sheet6" target="_blank">
-    View My Tableau Dashboard
-  </a>
-</p>
 
 Within London House, there are a whopping 18 different types of fish that are documented as being purchased. While, of course, this type of variety would not be available to a majority of people in England, it symbolizes a less reluctant consumption of fish than previously understood. With the exotic variety of fish, ranging from flounder, to roches, to red and white herrings, it is possible that fish consumption could actually be used as a form of a status symbol. Of course, the little money spent on fish when compared to beef still shows an obvious favoritism amongst the English palate, the varying types of fish consumed display less hostility towards fish than previously anticipated. 
