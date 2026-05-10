@@ -13,13 +13,30 @@ What is particularly striking about the findings of London House is the immense 
 
 ![A data visualization of the fish consumed at London House_](assets/img/Fish Consumption.png)
 
-<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+<div class='tableauPlaceholder' id='vizFish'>
+  <noscript>
+    <a href='#'>
+      <img alt='Fish Consumption Dashboard' 
+           src='https://public.tableau.com/static/images/Co/ConsumptionofIndicidualFish/Sheet6/1.png'>
+    </a>
+  </noscript>
 
+  <object class='tableauViz' width='100%' height='800'>
+    <param name='host_url' value='https://public.tableau.com/' />
+    <param name='embed_code_version' value='3' />
+    <param name='site_root' value='' />
+    <param name='path' value='views/ConsumptionofIndicidualFish/Sheet6' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+  </object>
+</div>
 
-<tableau-viz id="tableauViz"       
-  src='[https://public.tableau.com/views/FoodConsumptionatLondonHouse1612-1613/Sheet6?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]'      
-  toolbar="bottom" hide-tabs>
-</tableau-viz>
+<script src='https://public.tableau.com/javascripts/api/viz_v1.js'></script>
 
+<p>
+  <a href="https://public.tableau.com/views/ConsumptionofIndicidualFish/Sheet6" target="_blank">
+    View My Tableau Dashboard
+  </a>
+</p>
 
 Within London House, there are a whopping 18 different types of fish that are documented as being purchased. While, of course, this type of variety would not be available to a majority of people in England, it symbolizes a less reluctant consumption of fish than previously understood. With the exotic variety of fish, ranging from flounder, to roches, to red and white herrings, it is possible that fish consumption could actually be used as a form of a status symbol. Of course, the little money spent on fish when compared to beef still shows an obvious favoritism amongst the English palate, the varying types of fish consumed display less hostility towards fish than previously anticipated. 
