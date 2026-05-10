@@ -37,8 +37,6 @@ nav-menu:
     submenu:
       - title: Available Materials
         link: available-materials
-      - title: Further Readings
-        link: further-readings
       - title: Next Steps
         link: next-steps
         
