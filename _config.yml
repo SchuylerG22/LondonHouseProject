@@ -38,6 +38,8 @@ nav-menu:
         link: available-materials
       - title: Next Steps
         link: next-steps
+      - title: Acknowledgments
+        link: acknowledgments
         
 # sets whether a search bar appears on the site header
 search-bar: false
