@@ -7,8 +7,6 @@ show-title: true
 
 The overall data collected from London House can be seen below: 
 
-![A photo which displays the overall results__](assets/img/Workbook.png)
-
 <div class='tableauPlaceholder' id='vizFood'>
   <noscript>
     <a href='#'>
