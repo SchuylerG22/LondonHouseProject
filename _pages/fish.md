@@ -11,8 +11,6 @@ Given this history, it is somewhat surprising to see the results of London House
 
 What is particularly striking about the findings of London House is the immense variety of fish that were purchased and consumed: 
 
-![A data visualization of the fish consumed at London House_](assets/img/Fish Consumption.png)
-
 <div class='tableauPlaceholder' id='vizFish'>
   <noscript>
     <a href='#'>
