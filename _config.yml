@@ -33,7 +33,6 @@ nav-menu:
       - title: Results
         link: results
   - title: Further Research
-    link: further-research
     submenu:
       - title: Available Materials
         link: available-materials
