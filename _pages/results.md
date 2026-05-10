@@ -10,7 +10,7 @@ The overall data collected from London House can be seen below:
 ![A photo which displays the overall results__](assets/img/Workbook.png)
 
 <iframe 
-  src="https://public.tableau.com/views/FoodConsumptionatLondonHouse1612-1613/Dashboard1"
+  src="https://public.tableau.com/views/FoodConsumptionatLondonHouse1612-1613/Dashboard1?:embed=y&:display_count=yes"
   width="100%" 
   height="800"
   frameborder="0">
