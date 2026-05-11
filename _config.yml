@@ -24,14 +24,14 @@ nav-menu:
         link: bibliography
   - title: Findings
     submenu:
+      - title: Results
+        link: results
       - title: Meat
         link: meat
       - title: Fish
         link: fish
       - title: Dairy and Poultry
         link: dairy-and-poultry
-      - title: Results
-        link: results
   - title: Further Research
     submenu:
       - title: Available Materials
