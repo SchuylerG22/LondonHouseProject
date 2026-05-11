@@ -11,6 +11,7 @@ Seafood was so unpopular, in fact, that there was a pattern of English royals ha
 
 Given this history, it is somewhat surprising to see the results of London House. When examining the records, it becomes apparent that fish was not only consumed, but was a consistent, weekly staple of the English diet. What is particularly striking about these finding is the immense variety of fish that were purchased and consumed: 
 
+
 <div class='tableauPlaceholder' id='vizFish'>
   <noscript>
     <a href='#'>
