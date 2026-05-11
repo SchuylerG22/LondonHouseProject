@@ -5,7 +5,7 @@ permalink: method
 show-title: true
 ---
 
-**1. Transcription**
+<big>**1. Transcription**</big>
 
 Transcribing London House was by far the most time-consuming step in the process, taking well over half of the scheduled duration. The main perpetrator of this delay was the handwriting used to compose London House, which was often difficult to decipher and, at times, verged on illegibility. One great aid in this process was the high-quality digitization provided by The Folger Shakespeare Library, which allows readers to magnify the pages while maintaining readability. This allowed for the ability to focus on words causing particular issues and, if needed, to transcribe a line word by word. 
 
@@ -24,7 +24,7 @@ Following this, it was necessary to decode the numbers used within the text. The
 
 The final step in decoding was understanding the types of currency being used. After much deducing, we decided that, based on the current symbol for pound, lb, the “L” used might be an earlier iteration. After this, we were finally able to decipher the second currency symbol as a “d,” which, after some research, we discovered was the symbol for “pence.” There were also a few less common forms of measurement that took getting used to, such as “stone,” used exclusively for beef; “joints,” for lamb and mutton; and, occasionally, “firkin,” for butter.
 
-**2.Data Collection**
+<big>**2.Data Collection**</big>
 
 Based on how long it was taking to decode and transcribe the text, it was unrealistic to collect data on every food mentioned within London House in a given week. Instead, I chose to transcribe a smaller number of foodstuffs that I felt best reflected general consumption patterns. This required leaving out more antiquated foods like “cheate” or “manchette” and focusing instead on 4 central categories: Dairy, Meat, Fish, and Poultry. These foods were chosen because they were staples that appeared on a weekly basis, are easily transferable to our understanding of food culture today, and are broad enough to still show significant consumption trends. 
 
@@ -33,6 +33,6 @@ After these categories were decided, the data collection categories themselves n
 ![A photo of the data sheet_](assets/img/Excel sheet.png)
 <small>A photo of the original data sheet</small> 
 
-**3.Data Visulaization**
+<big>**3.Data Visulaization**</big>
 
 The data visualization tool applied to London House was Tableau. After surveying different options, Tableau proved the most favorable as it has a straightforward application, allows for interactive elements, and provides immense opportunities for customization. Although the data was curated to be readable for Tableau, it did require some additional cleaning before it could be properly applied. This cleaning mainly revolved around standardizing measurements, creating broader categories for the food, and doing some additional math to adjust the monetary values based on today’s currency. Once this was done, the data was applied to Tableau where a variety of different data visualization tactics were applied to it, as shown in the “Results” section of this webpage. 
