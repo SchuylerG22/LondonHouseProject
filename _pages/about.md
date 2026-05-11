@@ -5,4 +5,8 @@ permalink: about
 show-title: true
 ---
 
-By applying data visualization to the information provided by London House, this project will gain new insight on the reality of English consumption patterns, thus determining how different they truly were from Irish consumption in the Early Modern Era. In doing so, this work will also make a case for the vitality of DH implementation within historical research. 
+In sixteenth-and seventeenth-century England, there was a dramatic increase in the desire for a national identity. With continuously shifting boundaries, internal religious and political conflict, and increasing multicultural interactions, the security provided through a unified national sentiment gained mass appeal. As people began to build this identity, however, they became increasingly aware of the concept of cultural differences. Thus, any behavior which opposed this chosen national identity, such as overtly sexual behaviors, personal violence, and, most importantly here, eating improperly, were ostracized. Therefore, certain diets and consumption practices became distinguishably “English,” giving food an unprecedented political and social vitality.
+
+This has sparked numerous questions amongst food historians over the years, with one of the most prominent being: How did the portrayal of Early Modern English consumption actually match up to their everyday dietary practices? 
+
+**The London House Project** is an attempt to utilize digital humanities to begin answering these questions. By examining the kitchen record A weekly book for London House, 1612 March 25 - 1614 March 25, this project has tracked real, every-day consumption patterns of seventeenth-century England to understand what people actually consumed and how it differents from what they portrayed themselves as consuming. 
