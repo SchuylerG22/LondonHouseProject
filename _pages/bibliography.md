@@ -5,9 +5,20 @@ permalink: bibliography
 show-title: true
 ---
 
-**Sources Consulted and Suggested for Further Research**
+<big>**Sources Consulted and Suggested for Further Research:**</big>
+
+**_Primary Sources_**
 
 "A weekly book for London House," 1612 - 1614, Z.d.20, The Folger Shakespeare Library, Washington D.C. https://fromthepage.com/folger/early-modern-account-books/zd20 
+
+
+Edward Jeninges, _A Briefe Discouery of the Damages that Happen… Nauie_. London: Roger Ward, 1593. 
+
+
+Thomas Moffett. _Healths Improvement_. London: T. Osborne 1553-1604. 
+
+
+**_Secondary Sources_**
 
  
 Albala, Ken. _Eating Right in the Renaissance_. University of California Press, 2002. 
@@ -34,7 +45,7 @@ Gentilcore, David. _Food and Health in Early Modern Europe Diet, Medicine and So
 Lloyd, Paul S. _Food and Identity in England, 1540-1640: Eating to Impress_. Bloomsbury, 2016. 
 
 
-Mennell, Stephen. _All Manners of Food: Eating and Taste in England and France from the Middle Ages to the Present_. University of Illinois                   Press, 2006. 
+Mennell, Stephen. _All Manners of Food: Eating and Taste in England and France from the Middle Ages to the Present_. University of Illinois Press, 2006. 
 
 
 Thirsk, Joan. _Food in Early Modern England: Phases, Fads, Fashions, 1500-1760_. Continuum, 2006. 
