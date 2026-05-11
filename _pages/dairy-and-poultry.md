@@ -5,9 +5,8 @@ permalink: dairy-and-poultry
 show-title: true
 ---
 
-Dairy and poultry, for the most part, had less strongly tied political and national associations than did beef and fish. However, it is still important to track how these more “stable” foods changed in consumption throughout the year. What is particularly striking is that dairy takes a stark increase in consumption in March.. It is plausible this is due to the dramatic decrease in beef consumption  in this month, which is perhaps being supplemented with an increase in dairy consumption. 
+Dairy and poultry, for the most part, had less strongly tied political and national associations than did beef and fish. However, it is still important to track how these more “stable” foods changed in consumption throughout the year. Although these foods were considered to be more consistent and less politically malleable, there are some interesting anomalies which occur that deserve exploration both in the project and by other food historians. 
 
-What is also particularly curious is that, unlike any other food, poultry shows a dramatic increase in consumption in April. This will require further research as the project develops to see whether there are any religious, social, or agricultural reasons which could be causing an unprecedented increase in consumption. 
 
 <div class='tableauPlaceholder' id='vizSheet3'>
   <noscript>
@@ -28,3 +27,8 @@ What is also particularly curious is that, unlike any other food, poultry shows 
 </div>
 
 <script src='https://public.tableau.com/javascripts/api/viz_v1.js'></script>
+
+
+One thing that is particularly striking is that dairy consumption shows a stark increase in the month of March. While difficult to confirm, it is plausible that this is a response to the dramatic decrease in beef consumption, as products like butter had a dense caloric content that was vital for sustenance during this period. However, this is also an important discovery because it displays that cattle were present during the month of March, ruling out a decrease in their presence as a reasoning for the stark decline in beef consumption. This leaves two prominent (though not the only) theories as to why beef consumption declined so strongly in March: it was a period in the agricultural cycle which benefitted from an abundance of cattle or the Protestant English, despite their protests, were participating in Catholic lenten fasting practices. 
+
+What is also particularly curious is that, unlike any other food, poultry shows a dramatic increase in consumption in April. This will require further research as the project develops but, given the lack of religious and social significance often attributed to poultry, a likely explanation is that this was a period of time in the agricultural cycle in which these products were in abundance. 
