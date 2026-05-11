@@ -38,5 +38,29 @@ Within _London House_, there are an astonishing eighteen different types of fish
 While there is a huge discrepancy in the amount of money spent on fish in comparison to beef, there is still a clear track of consistent consumption that, somewhat surprisingly, proves it to be an important part of English dietary practices. Therefore, it is possible to conclude that the English, out of a desire to display their Protestant faith, portrayed themselves as much more hostile towards fish than they were in reality. 
 
 
+When analyzing fish and beef consumption in isolation, another fascinating discovery occurs: there is a dramatic decrease in beef consumption and simultaneously increase in fish consumption in the month of March: 
+
+<div class='tableauPlaceholder' id='vizFishBeef'>
+  <noscript>
+    <a href='#'>
+      <img alt='Fish vs Beef Consumption' 
+           src='https://public.tableau.com/static/images/Fi/Fishvs_BeefConsumption/Sheet7/1.png'>
+    </a>
+  </noscript>
+
+  <object class='tableauViz' width='100%' height='800'>
+    <param name='host_url' value='https://public.tableau.com/' />
+    <param name='embed_code_version' value='3' />
+    <param name='site_root' value='' />
+    <param name='path' value='views/Fishvs_BeefConsumption/Sheet7' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+  </object>
+</div>
+
+<script src='https://public.tableau.com/javascripts/api/viz_v1.js'></script>
+
+While this could be an agricultural phenomenon in which there is either a lack of cows or a necessity to prevent their consumption, this occurring in the month of March raises suspicion. The replacing of fish for beef speaks to the practices of Lenten dietary practices, just in the month in which they would have occurred. Therefore, though they portrayed themselves as vehemently anti-Catholic, it is plausible that England was still following these deeply religious dietary practices. 
+
 
 [1] Edward Jeninges, _A Briefe Discouery of the Damages that Happen_.(London:Roger Ward, 1593),27.
