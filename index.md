@@ -10,7 +10,7 @@ Documenting the foods purchased by houses on a weekly basis, kitchen records are
 
 **The London House Project** is an attempt to employ digital humanities to solve this problem. By gathering information from _London House_ and employing data visualization tools to present the findings, this project seeks to increase the accessibility of this record, making it a viable source for food historians to employ in their research.
 
-Additionally, **The London House Project** employs these findings to answer its own research questions. Specifically, how do actual, everyday consumption patterns compare to what the people of Early Modern England portrayed themselves as consuming? Is there a difference between their perceived diet and their actual consumption practices?
+Additionally, **The London House Project** utilizes these findings to answer its own research questions. Specifically, how do actual, everyday consumption patterns compare to what the people of Early Modern England portrayed themselves as consuming? Is there a difference between their perceived diet and their actual eating practices?
 
 
 ![A photo of the first page of _London House__](assets/img/image1.png)
