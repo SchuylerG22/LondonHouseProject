@@ -11,6 +11,7 @@ Given this historical importance, beef was closely watched during the formation 
 
 The mass popularity of beef in comparison to other foodstuffs is best portrayed when examining the weekly documentation of these items: 
 
+
 <div class='tableauPlaceholder' id='vizWeekly'>
   <noscript>
     <a href='#'>
@@ -30,5 +31,6 @@ The mass popularity of beef in comparison to other foodstuffs is best portrayed 
 </div>
 
 <script src='https://public.tableau.com/javascripts/api/viz_v1.js'></script>
+
 
 As shown in the data visualization, the money spent on beef consistently doubles or triples that spent on any other food. While this is partially due to the fact that beef was costly, it is also a result of the mass amount they are purchasing on a weekly basis, indicating significant and frequent consumption. Therefore, this idea of the Englishmen as “beef eaters,” while certainly heightened to increase national unity, was backed up by actual consumption patterns. 
